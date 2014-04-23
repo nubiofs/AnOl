@@ -1,0 +1,15 @@
+{
+  "name": "ol3",
+  "homepage": "https://github.com/openlayers/ol3",
+  "version": "3.0.0-beta.4",
+  "_release": "3.0.0-beta.4",
+  "_resolution": {
+    "type": "version",
+    "tag": "v3.0.0-beta.4",
+    "commit": "24314d7c54224e787d58566dbe075b2f1d7d4873"
+  },
+  "_source": "https://github.com/openlayers/ol3.git",
+  "_target": "~3.0.0-beta.4",
+  "_originalSource": "https://github.com/openlayers/ol3.git",
+  "_direct": true
+}

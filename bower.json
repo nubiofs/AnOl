@@ -1,0 +1,24 @@
+{
+  "name": "AnOl",
+  "version": "0.0.0",
+  "description": "AngularJS & OpenLayer3",
+  "keywords": [
+    "What?"
+  ],
+  "authors": [
+    "Gontar"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-bootstrap": "~0.10.0",
+    "angular-ui": "~0.4.0",
+    "ol3": "https://github.com/openlayers/ol3.git#~3.0.0-beta.4"
+  }
+}
